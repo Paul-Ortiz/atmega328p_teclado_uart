@@ -6,11 +6,11 @@ En el proyecto se uso el Atmega328p para esta aplicacion es importante revisar l
 
 ![](MCC_diagram.PNG)
 
-![](MCC_pinout.PNG)
+![](MCC_pinout.png)
 
-![](MCC_pins_config.PNG)
+![](MCC_pins_config.png)
 
-![](MCC_pins_pullup.PNG)
+![](MCC_pins_pullup.png)
 
 Se uso el software AVRDUDESS para descargar el programa a la placa.
 
